@@ -17,7 +17,8 @@
             android:id="@+id/imageView5"
             android:layout_width="146dp"
             android:layout_height="100dp"
-            android:src="@drawable/profle" />
+            android:src="@drawable/profle"
+            android:contentDescription="@string/logoprofile"/>
     </TableRow>
 
     <TableRow
@@ -30,7 +31,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:text="Name:"
+            android:text="@string/name"
             android:textStyle="bold" />
 
         <EditText
@@ -38,7 +39,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:ems="10"
+            android:minHeight="48dp"
             android:hint="@string/InputNm"
             android:inputType="text"
             />
@@ -65,7 +66,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:ems="10"
+            android:minHeight="48dp"
             android:hint="Masukkan nomor"
             android:inputType="text" />
     </TableRow>
@@ -88,7 +89,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
-            android:ems="10"
+            android:minHeight="48dp"
             android:hint="Masukkan Alamat"
             android:inputType="text" />
     </TableRow>

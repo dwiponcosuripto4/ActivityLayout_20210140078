@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">ProjeCTKelasB</string>
+    <string name="nama">Dwiponco</string>
+    <string name="hp">081279306116</string>
+    <string name="judul">Republic of Gamers</string>
+    <string name="jono">Join</string>
+    <string name="pilih">Pilih Mobil Anda</string>
+    <string name="bleft">Left</string>
+    <string name="background">bg</string>
+    <string name="logoframe">ROG</string>
+    <string name="btsb">Submit</string>
+    <string name="InputNm">Masukkan Nama</string>
 </resources>

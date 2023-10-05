@@ -10,4 +10,6 @@
     <string name="logoframe">ROG</string>
     <string name="btsb">Submit</string>
     <string name="InputNm">Masukkan Nama</string>
+    <string name="logoprofile">profile</string>
+    <string name="name">Name:</string>
 </resources>
